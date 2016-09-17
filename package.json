@@ -17,6 +17,8 @@
   },
   "keywords": [
     "standard",
+    "eslint",
+    "cli",
     "lint"
   ],
   "author": "nichoth",
