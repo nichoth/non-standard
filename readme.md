@@ -5,7 +5,7 @@ Lint for just a few things.
 * 4 spaces
 * no semicolons
 * max line length of 80 columns
-* no unused variables, but unused paramters are ok
+* no unused variables, but unused parameters are ok
 * single quotes, but double are ok for escaping purposes
 
 
