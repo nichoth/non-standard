@@ -7,6 +7,8 @@
     "nonstandard": "./bin/cmd.js"
   },
   "scripts": {
+    "preversion": "git push && git push --tags",
+    "postversion": "npm publish",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
